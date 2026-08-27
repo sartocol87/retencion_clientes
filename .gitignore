@@ -1,0 +1,14 @@
+data/**
+!data/.gitkeep
+**/.env
+
+# Python venvs
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+**/.env
+
+**/*.jpg
